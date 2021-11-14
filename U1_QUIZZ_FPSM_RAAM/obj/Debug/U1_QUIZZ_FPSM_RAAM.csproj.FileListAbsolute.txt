@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\bin\Debug\U1_QUIZZ_FPSM_RAAM.exe.config
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\bin\Debug\U1_QUIZZ_FPSM_RAAM.exe
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\bin\Debug\U1_QUIZZ_FPSM_RAAM.pdb
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.Form1.resources
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.Properties.Resources.resources
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.exe
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.pdb
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.Form2.resources
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.Form3.resources
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.Form4.resources
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.Form5.resources
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\U1_QUIZZ\U1_QUIZZ_FPSM_RAAM\obj\Debug\U1_QUIZZ_FPSM_RAAM.csproj.CopyComplete
